@@ -28,7 +28,15 @@ I created this device to learn the basic principles of electronic circuits and s
 No program was used. The device operates using electronic circuits.
 
 ## Development
-(Add photos and details of the circuit here)
+
+This device was created as an introduction to electronic circuits.
+
+The metal detector uses a simple circuit that activates when metal completes the connection.
+
+The sound detector measures sound intensity and displays the level using five LEDs.
+The number of LEDs changes depending on the volume.
+
+(Add details about the circuit design and improvements here)
 
 ## Result
 (Add photos or videos of the completed device here)
