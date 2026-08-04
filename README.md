@@ -1,30 +1,39 @@
 # Sound and Metal Detector
 
 ## Overview
-This project is a device that detects surrounding sounds and metals.
+This project is a simple electronic device that detects sound levels and metal contact.
 
 ## Purpose
-I developed this device to explore how sensors and signal processing can be used to detect information from the environment.
+I created this device to learn the basic principles of electronic circuits and sensors.
 
 ## Features
-- Sound detection
-- Metal detection
-- Real-time detection using sensors
+
+### Sound Detector
+- Measures the surrounding sound level.
+- Five LEDs indicate the sound intensity.
+- The number of illuminated LEDs changes depending on the volume.
+
+### Metal Detector
+- Detects metal by creating a circuit when metal contacts the device.
+- A sound is generated when the circuit is completed.
 
 ## Hardware
-- Microcontroller:
-- Sound sensor:
-- Metal sensor:
+- Electronic components
+- LEDs
+- Sound sensor
+- Buzzer
+- Metal detection circuit
 
 ## Software
-- Arduino IDE
-- C/C++
+No program was used. The device operates using electronic circuits.
 
 ## Development
-(Add development process here)
+(Add photos and details of the circuit here)
 
 ## Result
-(Add photos and videos here)
+(Add photos or videos of the completed device here)
 
 ## Future Improvements
-(Add future plans here)
+- Improve detection accuracy
+- Make the device more compact
+- Add a microcontroller for more advanced functions
