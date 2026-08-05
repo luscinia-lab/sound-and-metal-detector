@@ -34,7 +34,7 @@ The sound detector measures sound intensity and displays the level using five LE
 The number of LEDs changes depending on the volume.
 
 ## Result
-![Completed Device](completed.jpg)
+![Completed Device](IMG_4993.jpg)
 
 ## Future Improvements
 - Improve detection accuracy
